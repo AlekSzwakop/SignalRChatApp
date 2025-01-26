@@ -1,0 +1,77 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\szwak\\OneDrive\\Pulpit\\Chat\\api\\wwwroot\\uploads\\0d8010cc-379e-4101-b200-7cf0694bf6ec.png",
+      "PackagePath": "staticwebassets\\uploads\\0d8010cc-379e-4101-b200-7cf0694bf6ec.png"
+    },
+    {
+      "Id": "C:\\Users\\szwak\\OneDrive\\Pulpit\\Chat\\api\\wwwroot\\uploads\\2435ea55-7ecb-4e36-855f-fff0595251a5.jfif",
+      "PackagePath": "staticwebassets\\uploads\\2435ea55-7ecb-4e36-855f-fff0595251a5.jfif"
+    },
+    {
+      "Id": "C:\\Users\\szwak\\OneDrive\\Pulpit\\Chat\\api\\wwwroot\\uploads\\3c40c88a-936a-4a65-9d79-abd91831c1b9.jfif",
+      "PackagePath": "staticwebassets\\uploads\\3c40c88a-936a-4a65-9d79-abd91831c1b9.jfif"
+    },
+    {
+      "Id": "C:\\Users\\szwak\\OneDrive\\Pulpit\\Chat\\api\\wwwroot\\uploads\\642b379d-986b-48a7-8fcc-cd58d8e74179.jfif",
+      "PackagePath": "staticwebassets\\uploads\\642b379d-986b-48a7-8fcc-cd58d8e74179.jfif"
+    },
+    {
+      "Id": "C:\\Users\\szwak\\OneDrive\\Pulpit\\Chat\\api\\wwwroot\\uploads\\83d44e55-dd92-4fff-a5f0-e9ed5a7d435f.jpg",
+      "PackagePath": "staticwebassets\\uploads\\83d44e55-dd92-4fff-a5f0-e9ed5a7d435f.jpg"
+    },
+    {
+      "Id": "C:\\Users\\szwak\\OneDrive\\Pulpit\\Chat\\api\\wwwroot\\uploads\\9d310643-9623-40ad-85ff-b069315ecca6.png",
+      "PackagePath": "staticwebassets\\uploads\\9d310643-9623-40ad-85ff-b069315ecca6.png"
+    },
+    {
+      "Id": "C:\\Users\\szwak\\OneDrive\\Pulpit\\Chat\\api\\wwwroot\\uploads\\a4aa1dd8-97f9-4d6c-bbdd-f4dccf1afc7f.png",
+      "PackagePath": "staticwebassets\\uploads\\a4aa1dd8-97f9-4d6c-bbdd-f4dccf1afc7f.png"
+    },
+    {
+      "Id": "C:\\Users\\szwak\\OneDrive\\Pulpit\\Chat\\api\\wwwroot\\uploads\\acb86002-8ca4-41c6-87fd-474bd3fbc21c.png",
+      "PackagePath": "staticwebassets\\uploads\\acb86002-8ca4-41c6-87fd-474bd3fbc21c.png"
+    },
+    {
+      "Id": "C:\\Users\\szwak\\OneDrive\\Pulpit\\Chat\\api\\wwwroot\\uploads\\ca45b9cd-600e-420f-8fd5-a6f40ce28447.png",
+      "PackagePath": "staticwebassets\\uploads\\ca45b9cd-600e-420f-8fd5-a6f40ce28447.png"
+    },
+    {
+      "Id": "C:\\Users\\szwak\\OneDrive\\Pulpit\\Chat\\api\\wwwroot\\uploads\\cc8e9473-91e2-41bf-bf24-0be57b043e47.png",
+      "PackagePath": "staticwebassets\\uploads\\cc8e9473-91e2-41bf-bf24-0be57b043e47.png"
+    },
+    {
+      "Id": "C:\\Users\\szwak\\OneDrive\\Pulpit\\Chat\\api\\wwwroot\\uploads\\d3602cee-f9d6-43e2-8887-88e248eecd29.png",
+      "PackagePath": "staticwebassets\\uploads\\d3602cee-f9d6-43e2-8887-88e248eecd29.png"
+    },
+    {
+      "Id": "C:\\Users\\szwak\\OneDrive\\Pulpit\\Chat\\api\\wwwroot\\uploads\\dabb6aae-5777-4496-8afe-124cf52f08e8.png",
+      "PackagePath": "staticwebassets\\uploads\\dabb6aae-5777-4496-8afe-124cf52f08e8.png"
+    },
+    {
+      "Id": "C:\\Users\\szwak\\OneDrive\\Pulpit\\Chat\\api\\wwwroot\\uploads\\edd89afa-e5f7-4986-a85d-4bcb1d19ec24.png",
+      "PackagePath": "staticwebassets\\uploads\\edd89afa-e5f7-4986-a85d-4bcb1d19ec24.png"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.API.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.API.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.build.API.props",
+      "PackagePath": "build\\API.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.buildMultiTargeting.API.props",
+      "PackagePath": "buildMultiTargeting\\API.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.buildTransitive.API.props",
+      "PackagePath": "buildTransitive\\API.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
